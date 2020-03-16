@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - terrain
+  - foreground
+  - props
+  - player
+  - holy_grail
+  - Purification_background
+  - player_arm
+  - bullet
+  - crown_spawner
+  - powerup
+  - powerupspawner
+  - shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2988322811
+    locked: 0
+  - name: effective
+    uniqueID: 98991203
+    locked: 0
+  - name: background_effects
+    uniqueID: 4060502025
+    locked: 0
+  - name: player
+    uniqueID: 2053354775
+    locked: 0
+  - name: effects
+    uniqueID: 3392942093
+    locked: 0
+  - name: foreground
+    uniqueID: 2143399629
+    locked: 0
